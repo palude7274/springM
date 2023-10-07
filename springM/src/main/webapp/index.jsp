@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Insert title here</title>
+<title>index.jsp</title>
 </head>
 <body>
 <h2>기본페이지</h2>
@@ -16,5 +16,6 @@
 <br>
 <a href="<%=request.getContextPath()%>/board/boardWrite.do">글쓰기 페이지</a>
 <br>
+
 </body>
 </html>
